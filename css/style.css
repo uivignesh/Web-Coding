@@ -39,7 +39,7 @@ section.header {
     
 }
 .menu_part ul li.Reach a {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     border-radius: 54px;
     padding: 10px 15px;
     background: lightgreen;
